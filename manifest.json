@@ -1,0 +1,6 @@
+{
+    "manifest_version": 2,
+    "name": "JKLM-Bombparty-bot",
+    "description": "Google extension that provides some help when playing JKLM's Bombparty mode.",
+    "version": "0.10"
+}
